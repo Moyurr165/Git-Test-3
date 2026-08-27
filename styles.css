@@ -14,8 +14,8 @@ body {
 .social-media-profile {
     font-family: 'Inter', sans-serif;
     color: hsl(0, 0%, 100%);
-    width: 260px;
-    max-width: 360px;
+    width: 280px;
+    max-width: 100%;
     height: auto;
     background-color: hsl(0, 0%, 12%);
     margin: 16px;
