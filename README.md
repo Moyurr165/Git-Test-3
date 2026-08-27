@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Social links profile screenshot](./screenshot.jpg)
+![Social links profile screenshot]((image.png))
 
 ### Links
 
